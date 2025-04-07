@@ -4,5 +4,5 @@ GitHub Enterpriseユーザーのためのコミュニティ「OctoNihon」の過
 
 ## 📅 イベントアーカイブ
 
-- [2025年3月28日：GitHub Enterprise Forum](./events/2025-03-28-GitHub-Enterprise-Forum/)
+- [2025年3月28日：GitHub Enterprise Forum](./2025-03-28-GitHub-Enterprise-Forum/)
 
