@@ -1,3 +1,18 @@
+---
+layout: splash
+title: "GitHub Enterprise Forum 2025 Spring"
+header:
+  overlay_color: "#0070c9"          # GitHubブルー
+  overlay_image: /assets/images/OctoNihon Email Banner.png  # 任意の背景画像
+  overlay_filter: 0.2
+  caption: "2025年3月28日開催"
+---
+
+## イベント概要
+
+AI時代におけるエンタープライズ開発の最新動向を共有します。
+
+
 # 2025年3月28日「GitHub Enterprise Forum」
 
 ## イベント概要
