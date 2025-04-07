@@ -1,6 +1,5 @@
 ---
 layout: splash
-title: 
 header:
   overlay_color: "#0070c9"          # GitHubブルー
   overlay_image: /assets/images/OctoNihon Email Banner.png  # 任意の背景画像
