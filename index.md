@@ -1,8 +1,8 @@
 ---
 layout: splash
-title: _
+title: OctoNihon
 header:
-  overlay_image: /assets/images/OctoNihon Email Banner.png
+  overlay_image: /assets/images/OctoNihonHeader.png
   overlay_filter: 0.3 # 背景の暗さ（0〜1）
   caption: "GitHub Enterpriseユーザーのつどい"
 ---
