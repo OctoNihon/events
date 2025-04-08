@@ -2,7 +2,7 @@
 
 このリポジトリに含まれるコンテンツのライセンスは以下のとおりです：
 
-### ✅ レポート・Markdown記事・PDF資料
+### ✅ レポート・Markdown記事
 - ライセンス：Creative Commons Attribution 4.0 International (CC BY 4.0)
 - クレジットを記載すれば、再利用・翻訳・引用可能です。
 
