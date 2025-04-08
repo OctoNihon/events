@@ -1,8 +1,7 @@
 ---
 layout: splash
-title:  
+title: GitHub Enterprise Forum
 header:
-  overlay_color: "#0070c9"          # GitHubブルー
   overlay_image: /assets/images/GHEnterpriseForumheader.png  # 任意の背景画像
   overlay_filter: 0.3
   caption: "2025年3月28日開催"
