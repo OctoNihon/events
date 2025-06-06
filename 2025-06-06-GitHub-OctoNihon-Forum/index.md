@@ -1,8 +1,8 @@
 ---
 layout: splash
-title:  
+title: OctoNihon Forum
 header:
-  overlay_image: /assets/images/June6OctoNihonForumBackground.png  # 任意の背景画像
+  overlay_image: /assets/images/OctoNihonForumJune6BackGround.png  # 任意の背景画像
   overlay_filter: 0.3
   caption: "2025年6月6日開催"
 ---
