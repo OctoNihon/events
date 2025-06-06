@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: GitHub Enterprise Forum
+title:  
 header:
   overlay_image: /assets/images/June6OctoNihonForumBackground.png  # 任意の背景画像
   overlay_filter: 0.3
@@ -25,6 +25,7 @@ header:
   - GitHubからのご挨拶とプレゼンテーション
   - 株式会社ZOZO 堀江 亮介 様　[ZOZOにおけるGitHub Copilot活用事例](https://speakerdeck.com/horie1024/github-copilot-use-cases-at-zozo)
   - 株式会社ディー・エヌ・エー 岡﨑 文哉 様　[”AIにAll in”を支えるためのGitHub環境整備](https://www.docswell.com/s/2119490360/ZMXD76-2025-06-06-132038)
+  - TIS株式会社 山口 賢人 様 [GitHub Copilotを活用した大規模開発の 今 と 未来](https://fintan.jp/page/17650/)
 
 ## 📝 イベントレポート
 
