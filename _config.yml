@@ -8,4 +8,5 @@ plugins:
 # メニュー設定（必要に応じて）
 nav:
   - title: "イベント一覧"
-    url: "https://octonihon.github.io" baseurl: "/events"
+    url: "https://octonihon.github.io"
+    baseurl: "/events"
