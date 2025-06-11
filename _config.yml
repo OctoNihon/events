@@ -3,8 +3,9 @@ description: GitHub Enterpriseユーザーのためのイベントアーカイ�
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-include-cache
+  - jekyll-feed
 
 # メニュー設定（必要に応じて）
 nav:
   - title: "イベント一覧"
-    url: /
+    url: "https://octonihon.github.io" baseurl: "/events"
