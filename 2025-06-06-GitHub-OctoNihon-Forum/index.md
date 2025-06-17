@@ -24,6 +24,7 @@ header:
 - 📄 登壇者資料
   - GitHubからのご挨拶とプレゼンテーション [Agentic SDLC](https://octonihon.github.io/events/2025-06-06-GitHub-OctoNihon-Forum/GitHub_AgenticSDLC_ShlomiShakiJune6.pdf)
   - 株式会社ZOZO 堀江 亮介 様　[ZOZOにおけるGitHub Copilot活用事例](https://speakerdeck.com/horie1024/github-copilot-use-cases-at-zozo)
+  - 日立製作所 佐山 史織 様 [日立グループにおけるGitHub Enterprise / Copilot利用者拡大のための取り組みのご紹介](https://octonihon.github.io/events/2025-06-06-GitHub-OctoNihon-Forum/20250606_OctoNihon_Forum_日立製作所.pdf)
   - 株式会社ディー・エヌ・エー 岡﨑 文哉 様　[”AIにAll in”を支えるためのGitHub環境整備](https://www.docswell.com/s/2119490360/ZMXD76-2025-06-06-132038)
   - TIS株式会社 山口 賢人 様 [GitHub Copilotを活用した大規模開発の 今 と 未来](https://fintan.jp/page/17650/)
 
