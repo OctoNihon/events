@@ -23,7 +23,7 @@ header:
   - GitHub VP, Product Management Todd Manion
   - GitHub Senior Customer Success Manager Jack Franklin
 - 📄 登壇者資料
-  - みずほ証券株式会社様 [GitHub導入までの道のりとこれから] (https://github.com/OctoNihon/events/blob/main/2025-09-25-GitHub-OctoNihon-Forum/MizuhoSecurities_OctoNihonForum3Slides_20250919.pdf)
+  - みずほ証券株式会社様 [GitHub導入までの道のりとこれから](https://github.com/OctoNihon/events/blob/main/2025-09-25-GitHub-OctoNihon-Forum/MizuhoSecurities_OctoNihonForum3Slides_20250919.pdf)
   - 株式会社NTTドコモ様　
   - 三菱電機株式会社様　[InnerSource x GitHub が拓く未来](https://github.com/OctoNihon/events/blob/main/2025-09-25-GitHub-OctoNihon-Forum/20250925_OctoNihon_Forum3_MitsubishiElectronics.pdf)
   - レバレジーズ株式会社様 [SpecKitでどこまでできる？ コストはどれくらい？](https://speakerdeck.com/leveragestech/speckitdedokomadedekiru-kosutohadorekurai)
