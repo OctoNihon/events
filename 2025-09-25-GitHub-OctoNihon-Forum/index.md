@@ -30,4 +30,4 @@ header:
 
 ## 📝 イベントレポート
 
-👉 [レポートを読む](https://github.com/OctoNihon/events/blob/main/2025-09-25-GitHub-OctoNihon-Forum/report.md)
+👉 [レポートを読む](https://octonihon.github.io/events/2025-09-25-GitHub-OctoNihon-Forum/report.html)
