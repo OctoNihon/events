@@ -24,7 +24,7 @@ header:
   - GitHub Senior Customer Success Manager Jack Franklin
 - 📄 登壇者資料
   - みずほ証券株式会社様 [GitHub導入までの道のりとこれから](https://octonihon.github.io/events/2025-09-25-GitHub-OctoNihon-Forum/MizuhoSecurities_OctoNihonForum3Slides_20250919.pdf)
-  - 株式会社NTTドコモ様　
+  - 株式会社NTTドコモ様　[NTTドコモグループにおけるGitHub運用の裏側](https://octonihon.github.io/events/2025-09-25-GitHub-OctoNihon-Forum/NTTDocomo_GitHubOps_BehindTheScene_Latest.pdf)
   - 三菱電機株式会社様　[InnerSource x GitHub が拓く未来](https://octonihon.github.io/events/2025-09-25-GitHub-OctoNihon-Forum/20250925_OctoNihon_Forum3_MitsubishiElectronics.pdf)
   - レバレジーズ株式会社様 [SpecKitでどこまでできる？ コストはどれくらい？](https://speakerdeck.com/leveragestech/speckitdedokomadedekiru-kosutohadorekurai)
 
