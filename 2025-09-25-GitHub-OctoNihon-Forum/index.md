@@ -12,7 +12,7 @@ header:
 ## イベント概要
 
 第3回目のイベントとして、サイボウズ株式会社様のイベントスペースにて、GitHub Enterpriseユーザーをご招待して開催しました。
-- 🌏 [参加登録ウェブサイト]([https://github.registration.goldcast.io/events/ce987497-9c4b-4786-8f1a-e0c64837ac8d](https://github.registration.goldcast.io/events/45d8e7f8-f39f-44f9-86fd-911d97851213#Speakers))
+- 🌏 [参加登録ウェブサイト](https://github.registration.goldcast.io/events/45d8e7f8-f39f-44f9-86fd-911d97851213)
 - 📍 場所：サイボウズ株式会社　東京日本橋タワー27階
 - 👥 登壇者：
   - みずほ証券株式会社 CI/CDパイプライン構築施策リード 古賀 翔太 様　/ プリンシパルITアーキテクト　石村 貴則 様
