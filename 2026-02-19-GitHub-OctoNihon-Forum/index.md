@@ -2,7 +2,7 @@
 layout: splash
 title: OctoNihon Forum
 header:
-  overlay_image: /assets/images/Logo_WideFeb19OctoNihonHero.png  # 任意の背景画像
+  overlay_image: /assets/images/NoLogoHeaderOctoNihonFeb19.png  # 任意の背景画像
   overlay_filter: 0.3
   caption: "2026年2月19日開催"
 ---
