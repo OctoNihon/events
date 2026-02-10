@@ -12,7 +12,7 @@ header:
 ## イベント概要
 
 第4回目のイベントとして、ソニーシティ大崎2階ホールCにて、GitHub Enterpriseユーザーをご招待して開催します。
-- 🌏 参加登録ウェブサイト作成中
+- 🌏 [参加登録ウェブサイト](https://github.registration.goldcast.io/events/040d8b66-6c6b-4e60-9f9c-0e4aaa217d74)
 - 📍 場所：ソニーシティ大崎2階ホールC
 - 👥 登壇者：
   - GitHub Senior Customer Success Manager Jack Franklin
