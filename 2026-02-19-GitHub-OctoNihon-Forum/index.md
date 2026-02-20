@@ -25,7 +25,7 @@ header:
 - 📄 登壇者資料
   - 大日本印刷株式会社様　[DNPグループでのGitHub導入戦略](https://octonihon.github.io/events/2026-02-19-GitHub-OctoNihon-Forum/OctoNihon4_DNP_Publish.pdf)
   - JCOM株式会社　[開発エンジニアが取り組む DevSecOps ～ GitHub Enterprise × Azure での実践～](https://octonihon.github.io/events/2026-02-19-GitHub-OctoNihon-Forum/20260219-OctoNihon4_JCOMDevSecOps_key.pdf)
-  - NTTデータグループ　[生成AIを前提とした開発変革の取り組み ― GitHub Copilot を起点とした全社展開の現状と学び ―](https://octonihon.github.io/events/2026-02-19-GitHub-OctoNihon-Forum/2026-02-19-GitHub-OctoNihon-Forum/OctoNihon-#4-NTTDATA.pdf)
+  - NTTデータグループ　[生成AIを前提とした開発変革の取り組み ― GitHub Copilot を起点とした全社展開の現状と学び ―](https://octonihon.github.io/events/2026-02-19-GitHub-OctoNihon-Forum/OctoNihon-4-NTTDATA.pdf)
 
 ## 📝 イベントレポート
   - [レポートを読む](https://octonihon.github.io/events/2026-02-19-GitHub-OctoNihon-Forum/report.html)
