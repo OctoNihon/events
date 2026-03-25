@@ -21,8 +21,8 @@ OctoNihon Forumの特別回として、2026年3月24日（火）に開催され�
   * 楽天カード株式会社 マネージャー Kosuke Matsuo 様
 
 * 📄 登壇者資料
-  * 富士ソフト株式会社様　【GitHub Copilot×学生インターン】15HでWebアプリ完成！生成AI開発体験のリアル（準備中）
-  * 株式会社リコー様　開発者主導で回す GitHub Enterprise 運用：ルール可視化から始める改善サイクル（準備中）
+  * 富士ソフト株式会社様　[【GitHub Copilot×学生インターン】15HでWebアプリ完成！生成AI開発体験のリアル](https://octonihon.github.io/events/2026-03-24-GitHub-OctoNihon-Forum/OctoNihon_FUJISOFT_20260323.pdf)
+  * 株式会社リコー様　[開発者主導で回す GitHub Enterprise 運用：ルール可視化から始める改善サイクル](https://octonihon.github.io/events/2026-03-24-GitHub-OctoNihon-Forum/20260324_OctoNihon_Ricoh.pdf)
 
 ## 📝 イベントレポート
 
