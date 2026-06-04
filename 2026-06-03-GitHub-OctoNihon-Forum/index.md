@@ -11,7 +11,7 @@ header:
 
 ## イベント概要
 
-2026年6月3日（火）にオンライン配信にて開催されたOctoNihon Forum#6です。GitHub Enterpriseユーザーによる事例発表とディスカッションを行いました。
+2026年6月3日（火）にオンライン配信にて開催されたOctoNihon Forum#6です。GitHub Enterpriseユーザーによる事例発表を行いました。
 
 * 🌏 [参加登録ウェブサイト](https://github.registration.goldcast.io/events/45ef0553-7474-4875-9d1d-bc571c072f66)
 * 📍 場所：オンライン配信
