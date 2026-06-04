@@ -16,12 +16,14 @@ header:
 * 🌏 [参加登録ウェブサイト](https://github.registration.goldcast.io/events/45ef0553-7474-4875-9d1d-bc571c072f66)
 * 📍 場所：オンライン配信
 * 👥 登壇者：
+  * GitHub Senior Solutions Engineer Masayuki Matsuki
   * デンソー Project Assistant Manager Yuki Suzuki 様
   * 株式会社クレスコ ITアーキテクト 鈴木　隆文　様
   * NTTドコモソリューションズ株式会社 技術革新本部システム技術部DevTechセンタ スペシャリスト 小西 航太 様
   * Sun Asterisk Obra Engineering Pros. Division Manager 岡藤 裕太 様
 
 * 📄 登壇者資料
+  * GitHub [AGENTS.mdとAgent Skills](https://octonihon.github.io/events/2026-06-03-GitHub-OctoNihon-Forum/2026-0603-octonihon_GitHub.pdf)
   * NTTドコモソリューションズ株式会社様　[NTTドコモソリューションズにおけるGitHub Copilot展開の振り返りとAI駆動開発の追究に向けた営み](https://octonihon.github.io/events/2026-06-03-GitHub-OctoNihon-Forum/NTTDSol_octonihon0603.pdf)
   * Sun Asterisk様　[AI駆動開発の中でのGitHubの活用方法](https://octonihon.github.io/events/2026-06-03-GitHub-OctoNihon-Forum/SunAsterisk_AIDrivenDevWithGitHub.pdf)
 
