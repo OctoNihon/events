@@ -2,7 +2,7 @@
 layout: splash
 title: OctoNihon Forum
 header:
-  overlay_image: /assets/images/June6OctoNihonForumBackground.png
+  overlay_image: /assets/images/OctoNihonForum6June3BackGround.png
   overlay_filter: 0.3
   caption: "2026年6月3日開催"
 ---
