@@ -24,6 +24,7 @@ header:
 
 * 📄 登壇者資料
   * GitHub [AGENTS.mdとAgent Skills](https://octonihon.github.io/events/2026-06-03-GitHub-OctoNihon-Forum/2026-0603-octonihon_GitHub.pdf)
+  * 株式会社クレスコ様[「速く作る」だけでは失敗する～ゴールデンパスが支える「速く学べる」AI駆動開発～](https://octonihon.github.io/events/2026-06-03-GitHub-OctoNihon-Forum/OctoNihonCrescoFinal.pdf)
   * NTTドコモソリューションズ株式会社様　[NTTドコモソリューションズにおけるGitHub Copilot展開の振り返りとAI駆動開発の追究に向けた営み](https://octonihon.github.io/events/2026-06-03-GitHub-OctoNihon-Forum/NTTDSol_octonihon0603.pdf)
   * Sun Asterisk様　[AI駆動開発の中でのGitHubの活用方法](https://octonihon.github.io/events/2026-06-03-GitHub-OctoNihon-Forum/SunAsterisk_AIDrivenDevWithGitHub.pdf)
 
