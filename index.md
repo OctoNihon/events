@@ -23,4 +23,5 @@ GitHub Enterpriseユーザーのためのコミュニティ「OctoNihon」の過
 - [2025年9月25日：OctoNihon Forum#3](./2025-09-25-GitHub-OctoNihon-Forum/)
 - [2026年2月19日：OctoNihon Forum#4](./2026-02-19-GitHub-OctoNihon-Forum/)
 - [2026年3月24日：OctoNihon Forum#5](./2026-03-24-GitHub-OctoNihon-Forum/)
+- [2026年6月3日：OctoNihon Forum#6](./2026-06-03-GitHub-OctoNihon-Forum/)
 
