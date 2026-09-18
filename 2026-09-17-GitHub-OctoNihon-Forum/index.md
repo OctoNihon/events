@@ -19,11 +19,13 @@ header:
   * サイボウズ株式会社 生産性向上チーム 河野 雄也 様
   * 富士通株式会社 グローバルデリバリーBG ソフトウェアオープンイノベーション事業本部 マネージャー 吉田 学 様
   * 株式会社ZOZO 品質管理本部 情報セキュリティ部 SOCブロック セキュリティエンジニア 兵藤 壮泰 様
+  * 株式会社グリー 開発本部インフラ事業部 部長 Kiyo (Kiyokazu Hayashi) 様
   * GitHub Solutions Engineer 榛葉 昭孝
 
 * 📄 登壇者資料
   * サイボウズ株式会社様　[サイボウズにおけるGitHubの全社的な利用改善、セキュリティ、ガバナンス強化の取り組み](https://octonihon.github.io/events/2026-09-17-GitHub-OctoNihon-Forum/OctoNihon7_Cybozu.pdf)
   * 富士通株式会社様　[GitHub Enterpriseの生成AI機能を活用した開発スタイル変革への挑戦](https://octonihon.github.io/events/2026-09-17-GitHub-OctoNihon-Forum/OctoNihon7_Fujitsu.pdf)
+  * 株式会社グリー様　[GitHub Enterprise 2011年11月の初回リリースから使い続けた現在地 - GitHub Universe 2026 直前スペシャル -](https://octonihon.github.io/events/2026-09-17-GitHub-OctoNihon-Forum/OctoNihon7_GREE.pdf)
   * GitHub　[定める。測る。揃える。任せる。](https://octonihon.github.io/events/2026-09-17-GitHub-OctoNihon-Forum/OctoNihon7_GitHub_Shinba.pdf)
 
 ## 📝 イベントレポート
